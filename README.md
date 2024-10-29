@@ -2,7 +2,7 @@
 #### ```Full-Stack Developer / Data Scientist```
 <br/>
 Hey, I’m a full-stack developer with a love for building solutions that make life easier—whether that’s automating workflows, creating smooth UIs, or enhancing backend performance.  
-
+  
 In my last role, I integrated a data-collection microservice, gearing us up for machine learning while cutting down hours of manual work. Some of my other projects include a brain tumor detection system and web app enhancements that improved efficiency by 40%. I also helped boost search functionality and delivered quick fixes to keep things running smoothly. At the momment, I’m diving deep into machine learning with TensorFlow and PyTorch, getting ready to tackle real-world problems in predictive analytics and image recognition.
 
 Beyond coding, I'm big on automation. My automation tools cut manual testing time by 30 hours per project, ensuring that our applications could stand up to change.

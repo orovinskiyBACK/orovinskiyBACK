@@ -1,29 +1,11 @@
 # 💫 About Me:
-Hello, I’m Oleg Rovinskiy, <br>a passionate and experienced Full Stack Developer with a robust background in end-to-end software application development.  
-  
-I bring a strong combination of skills in design, development, testing, and deployment, complemented by a focus on automation. Throughout my career, 
-I have consistently delivered solutions that streamline workflows, improve efficiency, and enhance user experiences, saving valuable time and resources. 
-I thrive in environments where I can collaborate with engineers and stakeholders to gather requirements, define specifications, and deliver high-quality 
-software.<br>  
-  
-In my recent role I made significant contributions by integrating a data collection microservice into an internal application, 
-preparing the organization for future machine learning initiatives and greatly reducing manual data processing efforts. 
-My ongoing projects include developing a brain tumor detection system and central applications for data processing and machine learning (ML) assistance.<br>  
-  
-I led a team in handling maintenance, upgrades, and release cycles. I played a key role in revamping 
-.NET web pages into MVC Razor Pages, achieving a 40% improvement in efficiency and team productivity. 
-My efforts also included enhancing search engine functionalities with suggestion flyouts and popular results filtering, along with delivering out-of-cycle 
-hot fixes and urgent features to resolve critical issues swiftly.<br>  
-  
-I leveraged my skills as a QA Software Automation Engineer, where I developed a robust 
-testing process for back-end data validation in a CI/CD environment. By automating UI testing with Selenium, Playwright, Python, Git runners, NUnit, and .NET, 
-I helped reduce manual testing time by 30 hours per project. Additionally, I created test scripts that validated application functionalities following system changes, 
-insuring the software maintained high standards of reliability and performance.<br>  
-  
-I'm actively expanding my skill set in the realm of machine learning 
-and artificial intelligence. My current focus includes studying TensorFlow and PyTorch to enhance my understanding of ML models and deep learning frameworks. 
-I'm particularly interested in applying these skills to real-world problems, such as image recognition and predictive analytics, which align with the projects 
-I'm currently working on. This ongoing learning journey reflects my commitment to staying updated with emerging technologies and continually evolving as a software engineer.<br><br>
+Hey, I’m Oleg Rovinskiy! I’m a full-stack developer with a love for building solutions that make life easier—whether that’s automating workflows, creating smooth UIs, or enhancing backend performance.
+
+In my last role, I integrated a data-collection microservice, gearing us up for machine learning while cutting down hours of manual work. Some of my other projects include a brain tumor detection system and web app enhancements that improved efficiency by 40%. I also helped boost search functionality and delivered quick fixes to keep things running smoothly. At the momment, I’m diving deep into machine learning with TensorFlow and PyTorch, getting ready to tackle real-world problems in predictive analytics and image recognition.
+
+Beyond coding, I'm big on automation. My automation tools cut manual testing time by 30 hours per project, ensuring that our applications could stand up to change.
+
+Outside of work, I love hitting the gym, exploring nature, gaming (Stardew Valley is a favorite), and unwinding with some classic anime—big fan of Dragon Ball and Attack on Titan. Just to keep things interesting, I’m forklift certified—don’t ask why! Here to make the digital world a bit smoother, one project at a time.
 
 
 # 💻 Tech Stack:
